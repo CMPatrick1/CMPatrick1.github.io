@@ -3,6 +3,6 @@
 <html>
 <body>
 <h1>hi</h1>
-<p>this is a website.</p>
+<p>this is a very snazzy website.</p>
 </body>
 </html>
